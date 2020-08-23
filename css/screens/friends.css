@@ -44,7 +44,7 @@
 #splash-screen {
   background-color: var(--yellow);
   position: absolute;
-  height: 1000px;
+  height: 100%;
   width: 100%;
   top: 0;
   display: flex;
